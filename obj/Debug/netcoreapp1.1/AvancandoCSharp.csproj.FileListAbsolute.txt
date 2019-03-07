@@ -1,0 +1,9 @@
+c:\users\tecnologia\documents\visual studio 2017\Projects\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp1.1\AvancandoCSharp.deps.json
+c:\users\tecnologia\documents\visual studio 2017\Projects\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp1.1\AvancandoCSharp.runtimeconfig.json
+c:\users\tecnologia\documents\visual studio 2017\Projects\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp1.1\AvancandoCSharp.runtimeconfig.dev.json
+c:\users\tecnologia\documents\visual studio 2017\Projects\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp1.1\AvancandoCSharp.dll
+c:\users\tecnologia\documents\visual studio 2017\Projects\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp1.1\AvancandoCSharp.pdb
+c:\users\tecnologia\documents\visual studio 2017\Projects\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp1.1\AvancandoCSharp.csprojResolveAssemblyReference.cache
+c:\users\tecnologia\documents\visual studio 2017\Projects\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp1.1\AvancandoCSharp.AssemblyInfo.cs
+c:\users\tecnologia\documents\visual studio 2017\Projects\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp1.1\AvancandoCSharp.dll
+c:\users\tecnologia\documents\visual studio 2017\Projects\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp1.1\AvancandoCSharp.pdb
