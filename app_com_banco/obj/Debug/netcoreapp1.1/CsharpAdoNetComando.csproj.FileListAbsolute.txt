@@ -1,0 +1,9 @@
+c:\users\tecnologia\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.deps.json
+c:\users\tecnologia\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.runtimeconfig.json
+c:\users\tecnologia\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.runtimeconfig.dev.json
+c:\users\tecnologia\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.dll
+c:\users\tecnologia\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.csprojResolveAssemblyReference.cache
+c:\users\tecnologia\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.AssemblyInfo.cs
+C:\Users\TECNOLOGIA\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.pdb
+C:\Users\TECNOLOGIA\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.dll
+C:\Users\TECNOLOGIA\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.pdb
