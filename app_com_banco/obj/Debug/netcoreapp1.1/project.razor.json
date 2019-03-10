@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\SCARLETH-RIG\\Documents\\Developer_CSharp\\aplication-chsarp-version-7\\app_com_banco\\CsharpAdoNetComando.csproj",
+  "TargetFramework": "netcoreapp1.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

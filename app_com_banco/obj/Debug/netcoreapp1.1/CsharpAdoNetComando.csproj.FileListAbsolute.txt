@@ -7,3 +7,14 @@ c:\users\tecnologia\documents\visual studio 2017\Projects\CsharpAdoNetComando\Cs
 C:\Users\TECNOLOGIA\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.pdb
 C:\Users\TECNOLOGIA\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.dll
 C:\Users\TECNOLOGIA\documents\visual studio 2017\Projects\CsharpAdoNetComando\CsharpAdoNetComando\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.pdb
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.deps.json
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.runtimeconfig.json
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.runtimeconfig.dev.json
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.dll
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\bin\Debug\netcoreapp1.1\CsharpAdoNetComando.pdb
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.csprojAssemblyReference.cache
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.csproj.CoreCompileInputs.cache
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.AssemblyInfoInputs.cache
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.AssemblyInfo.cs
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.dll
+C:\Users\SCARLETH-RIG\Documents\Developer_CSharp\aplication-chsarp-version-7\app_com_banco\obj\Debug\netcoreapp1.1\CsharpAdoNetComando.pdb
